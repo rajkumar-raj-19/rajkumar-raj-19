@@ -2,9 +2,9 @@
 
 # 💫 About Me:
 
-🔭 **I’m currently working as a Backend Admin at Idea's For Transformation.**
+🔭 **I’m currently working as a Backend Admin at Idea's For Transformation.**<br>
 🌱 **Interests**
-I’m passionate about **Full Stack Development and System Design.**
+I’m passionate about **Full Stack Development and System Design.**<br>
 
 🙍‍♂️ **In a nutshell**
 I am an IT professional with experience in technical support and backend administration. I specialize in building secure full-stack applications using the **Spring ecosystem**, bridging the gap between legacy databases like **Oracle 10g** and modern identity providers. I am a quick learner who is focused on keeping systems running smoothly and helping users effectively.
