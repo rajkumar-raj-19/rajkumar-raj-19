@@ -2,17 +2,15 @@
 
 # 💫 About Me:
 
-🔭 **I’m currently working as a Backend Admin at Idea's For Transformation.**
-🌱 **Interests**
-I’m passionate about **Full Stack Development and System Design.**
-
-🙍‍♂️ **In a nutshell**
-I am an IT professional with experience in Application Developer and backend administration. I specialize in building secure full-stack applications using the **Spring ecosystem**, bridging the gap between legacy databases like **Oracle 10g** and modern identity providers. I am a quick learner who is focused on keeping systems running smoothly and helping users effectively.
-
-⚡ **Fun fact**
-* 🤖 **The Hardware Wizard:** Apart from coding, I built an **Arduino-based obstacle detection system**—it’s great at detecting physical obstacles, now I'm teaching it to find bugs in my code!
-* 🍔 **Burger Tech:** I handle IT operations for **McDonald's stores.** If your midnight burger order goes through smoothly, you're welcome!
-* 🔐 **Legacy Whisperer:** I enjoy making **Oracle 10g** play nice with **Google OAuth2.** It's like teaching a classic car to drive itself!
+🔭 I’m currently working as a Backend Admin at Idea's For Transformation.
+🌱 Interests
+I’m passionate about Full Stack Development and System Design.
+🙍‍♂️ In a nutshell
+I am an IT professional with experience in technical support and backend administration. I specialize in building secure full-stack applications using the Spring ecosystem, bridging the gap between legacy databases like Oracle 10g and modern identity providers. I am a quick learner who is focused on keeping systems running smoothly and helping users effectively.
+⚡ Fun fact
+* 🤖 The Hardware Wizard: Apart from coding, I built an Arduino-based obstacle detection system—it’s great at detecting physical obstacles, now I'm teaching it to find bugs in my code!
+* 🍔 Burger Tech: I handle IT operations for McDonald's stores. If your midnight burger order goes through smoothly, you're welcome!
+* 🔐 Legacy Whisperer: I enjoy making Oracle 10g play nice with Google OAuth2. It's like teaching a classic car to drive itself!
 
 # 🌐 Socials:
 
