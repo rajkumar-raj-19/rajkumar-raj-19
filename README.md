@@ -5,10 +5,8 @@
 🔭 **I’m currently working as a Backend Admin at Idea's For Transformation.**<br>
 🌱 **Interests**
 I’m passionate about **Full Stack Development and System Design.**<br>
-
 🙍‍♂️ **In a nutshell**
-I am an IT professional with experience in technical support and backend administration. I specialize in building secure full-stack applications using the **Spring ecosystem**, bridging the gap between legacy databases like **Oracle 10g** and modern identity providers. I am a quick learner who is focused on keeping systems running smoothly and helping users effectively.
-
+I am a dedicated Application Developer with a strong background in backend administration and secure system architecture. I specialize in building robust full-stack applications using the **Spring ecosystem**, with a unique expertise in modernizing legacy **Oracle 10g** databases and integrating them with modern identity providers. I am a quick learner & focused on writing clean, maintainable code and optimizing application performance for a seamless user experience.
 ⚡ **Fun fact**
 * 🤖 **The Hardware Wizard:** Apart from coding, I built an **Arduino-based obstacle detection system**—it’s great at detecting physical obstacles, now I'm teaching it to find bugs in my code!
 * 🍔 **Burger Tech:** I handle IT operations for **McDonald's stores.** If your midnight burger order goes through smoothly, you're welcome!
