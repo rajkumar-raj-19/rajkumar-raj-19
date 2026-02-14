@@ -31,8 +31,4 @@ I am an IT professional with experience in technical support and backend adminis
 
 # ✍️ Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Ken Thompson Quote" />
-</p>
-
-
+![Quote](https://github-readme-quotes-alpha.vercel.app/api?type=horizontal&theme=tokyonight)
