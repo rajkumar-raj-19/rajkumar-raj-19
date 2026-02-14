@@ -31,4 +31,6 @@ I am an IT professional with experience in technical support and backend adminis
 
 # ✍️ Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+# ✍️ Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=You%20can't%20trust%20code%20that%20you%20did%20not%20totally%20create%20yourself.&author=Ken%20Thompson)
