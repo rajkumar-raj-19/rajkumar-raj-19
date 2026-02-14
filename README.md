@@ -24,9 +24,9 @@ I am an IT professional with experience in technical support and backend adminis
 
 # 📊 GitHub Stats:
 
-![Rajkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajkumar-raj-19&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=rajkumar-raj-19&show_icons=true&theme=dark)
 
-![Rajkumar's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rajkumar-raj-19&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajkumar-raj-19&theme=dark)
 
 # ✍️ Random Dev Quote
 
