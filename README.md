@@ -2,17 +2,17 @@
 
 # 💫 About Me:
 
-[cite_start]🔭 **I’m currently working as a Backend Admin at Idea's For Transformation.** [cite: 9]
+🔭 **I’m currently working as a Backend Admin at Idea's For Transformation.**
 🌱 **Interests**
-[cite_start]I’m passionate about **Backend Development, System Design, and Secure Architectures.** [cite: 4, 24]
+I’m passionate about **Backend Development, System Design, and Secure Architectures.**
 
 🙍‍♂️ **In a nutshell**
-[cite_start]I am an IT professional with experience in technical support and backend administration[cite: 5, 9]. [cite_start]I specialize in building secure full-stack applications using the **Spring ecosystem**, bridging the gap between legacy databases like **Oracle 10g** and modern identity providers[cite: 23, 24, 33]. [cite_start]I am a quick learner who is focused on keeping systems running smoothly and helping users effectively[cite: 7].
+I am an IT professional with experience in technical support and backend administration. I specialize in building secure full-stack applications using the **Spring ecosystem**, bridging the gap between legacy databases like **Oracle 10g** and modern identity providers. I am a quick learner who is focused on keeping systems running smoothly and helping users effectively.
 
 ⚡ **Fun fact**
-* [cite_start]🤖 **The Hardware Wizard:** Apart from coding, I built an **Arduino-based obstacle detection system** [cite: 9]—it’s great at detecting physical obstacles, now I'm teaching it to find bugs in my code!
-* [cite_start]🍔 **Burger Tech:** I handle IT operations for **McDonald's stores**[cite: 9]. If your midnight burger order goes through smoothly, you're welcome! 
-* [cite_start]🔐 **Legacy Whisperer:** I enjoy making **Oracle 10g** play nice with **Google OAuth2**[cite: 24, 28]. It's like teaching a classic car to drive itself!
+* 🤖 **The Hardware Wizard:** Apart from coding, I built an **Arduino-based obstacle detection system**—it’s great at detecting physical obstacles, now I'm teaching it to find bugs in my code!
+* 🍔 **Burger Tech:** I handle IT operations for **McDonald's stores**. If your midnight burger order goes through smoothly, you're welcome! 
+* 🔐 **Legacy Whisperer:** I enjoy making **Oracle 10g** play nice with **Google OAuth2**. It's like teaching a classic car to drive itself!
 
 # 🌐 Socials:
 
@@ -21,10 +21,10 @@
 
 # 💻 Tech Stack:
 
-* [cite_start]**Backend:** Spring Boot, Spring Security, Spring Data JPA, Java (J2SE/J2EE)[cite: 32, 35].
-* [cite_start]**Frontend:** Thymeleaf, Bootstrap 5, HTML5, CSS3[cite: 32].
-* [cite_start]**Database:** Oracle 10g, MySQL, JDBC[cite: 14, 21, 33].
-* [cite_start]**Security:** OAuth2, BCrypt, Role-Based Access Control (RBAC)[cite: 34].
+* **Backend:** Spring Boot, Spring Security, Spring Data JPA, Java (J2SE/J2EE).
+* **Frontend:** Thymeleaf, Bootstrap 5, HTML5, CSS3.
+* **Database:** Oracle 10g, MySQL, JDBC.
+* **Security:** OAuth2, BCrypt, Role-Based Access Control (RBAC).
 
 # 📊 GitHub Stats:
 
