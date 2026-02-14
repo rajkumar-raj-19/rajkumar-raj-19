@@ -31,4 +31,4 @@ I am an IT professional with experience in technical support and backend adminis
 
 # ✍️ Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=How%20do%20we%20convince%20people%20that%20in%20programming%20simplicity%20and%20clarity%20—%20in%20short:%20what%20mathematicians%20call%20'elegance'%20—%20are%20not%20a%20dispensable%20luxury,%20but%20a%20crucial%20matter%20that%20decides%20between%20success%20and%20failure?&author=Edsger%20W.%20Dijkstra)
