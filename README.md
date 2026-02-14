@@ -31,8 +31,4 @@ I am an IT professional with experience in technical support and backend adminis
 
 # ✍️ Random Dev Quote
 
-# ✍️ Random Dev Quote
-
-> "You can't trust code that you did not totally create yourself."
-> 
-> — **Ken Thompson**
+![Ken Thompson Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
