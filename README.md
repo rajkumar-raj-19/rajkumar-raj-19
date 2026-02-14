@@ -8,7 +8,7 @@ I’m passionate about Full Stack Development and System Design.
 🙍‍♂️ In a nutshell
 I am an IT professional with experience in Application Development and backend administration. I specialize in building secure full-stack applications using the Spring ecosystem, bridging the gap between legacy databases like Oracle 10g and modern identity providers. I am a quick learner who is focused on keeping systems running smoothly and helping users effectively.
 ⚡ Fun fact
-I am passionate about building smart electronics and managing large-scale IT operations. I once built an Arduino-based obstacle detection system! I also handle backend administration for McDonald's stores, ensuring their systems run without a hitch.
+I am passionate about building smart electronics and managing complex IT operations. I once built an Arduino-based obstacle detection system using ultrasonic sensors! I also handle the backend administration for McDonald's stores, ensuring their digital systems stay up and running.
 
 # 🌐 Socials:
 
