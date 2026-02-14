@@ -26,6 +26,8 @@ I am an IT professional with experience in technical support and backend adminis
 
 ![Rajkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajkumar-raj-19&show_icons=true&theme=dark)
 
+![Rajkumar's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rajkumar-raj-19&theme=dark)
+
 # ✍️ Random Dev Quote
 
 > "How do we convince people that in programming simplicity and clarity — in short: what mathematicians call 'elegance' — are not a dispensable luxury, but a crucial matter that decides between success and failure?"
