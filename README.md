@@ -28,8 +28,7 @@ I am an IT professional with experience in technical support and backend adminis
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajkumar-raj-19&theme=dark)
 
+
 # ✍️ Random Dev Quote
 
-> "How do we convince people that in programming simplicity and clarity — in short: what mathematicians call 'elegance' — are not a dispensable luxury, but a crucial matter that decides between success and failure?"
-> 
-> — *Edsger W. Dijkstra*
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
