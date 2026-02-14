@@ -31,4 +31,4 @@ I am an IT professional with experience in technical support and backend adminis
 
 # ✍️ Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=ocean)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
